@@ -4,7 +4,7 @@
 </head>
 <body>
  The Student is confirmed: ${param.firstName} ${param.lastName}
- </br>
+ <br>
  
  <!-- Display list of favorite language -->
  <ul>
